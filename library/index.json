@@ -1,0 +1,59 @@
+{
+ "byoa_library": 1,
+ "stories": [
+  {
+   "id": "soon_the_lighthouse",
+   "title": "The Lighthouse",
+   "author": "",
+   "about": "A keeper, a lamp that keeps going out, and a logbook that writes itself.",
+   "color": "#2D4B52",
+   "soon": true,
+   "added": "2026-11-01"
+  },
+  {
+   "id": "soon_night_shift",
+   "title": "Night Shift",
+   "author": "",
+   "about": "Sell noodles from Kiosk 9, keep the city's secrets, and make it to dawn.",
+   "color": "#41385A",
+   "soon": true,
+   "added": "2026-11-01"
+  },
+  {
+   "id": "soon_salt_smoke",
+   "title": "Salt & Smoke",
+   "author": "",
+   "about": "A fishing village, a missing boat, and a choice about who to tell.",
+   "color": "#4E3D34",
+   "soon": true,
+   "added": "2026-11-01"
+  },
+  {
+   "id": "soon_the_long_corridor",
+   "title": "The Long Corridor",
+   "author": "",
+   "about": "Every door is a memory. Some of them are not yours.",
+   "color": "#2E3646",
+   "soon": true,
+   "added": "2026-11-01"
+  },
+  {
+   "id": "soon_orchard",
+   "title": "Orchard",
+   "author": "",
+   "about": "Your grandmother left you the orchard, and one rule: never pick after dark.",
+   "color": "#33473C",
+   "soon": true,
+   "added": "2026-11-01"
+  },
+  {
+   "id": "soon_dead_air",
+   "title": "Dead Air",
+   "author": "",
+   "about": "A late-night radio host takes a call he should not have answered.",
+   "color": "#523840",
+   "soon": true,
+   "added": "2026-11-01"
+  }
+ ]
+}
